@@ -30,15 +30,11 @@ I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding d
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,git,github,vscode,linux,docker,aws,gcp,azure" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy&perline=6" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,wireshark,metasploit,nmap,burpsuite,splunk,elk,snort,suricata" />
-  </a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,gcp,azure&perline=8" />
 </p>
 
 | Category | Technologies |
@@ -70,21 +66,15 @@ I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding d
 
 ---
 ### 📊 GitHub Statistics
-
-### 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUmerNaveed01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MUmerNaveed01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmerNaveed01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MUmerNaveed01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUmerNaveed01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
----
 
 ### 🤝 Connect with Me
 
@@ -94,7 +84,3 @@ I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding d
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
