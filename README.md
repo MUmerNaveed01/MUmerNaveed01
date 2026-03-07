@@ -25,7 +25,7 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 - 🌱 I’m currently learning **Deep Learning & Neural Networks**
 - 👯 I’m looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, ML, and Data Science**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: (umerhubhai0311@gmail.com)
 
 ---
 
