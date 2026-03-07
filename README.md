@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Data+Scientist;Python+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Cybersecurity+Enthusiast;Python+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ### 🚀 About Me
 
-I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to building intelligent systems that solve real-world problems. With a strong background in **Python** and **Machine Learning**, I focus on creating scalable, data-driven solutions. I love exploring new technologies and contributing to open-source projects.
+I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated to building intelligent systems and secure solutions. With expertise in **Python, Machine Learning, and Data Analytics**, I focus on creating scalable, real-world applications. I enjoy exploring emerging technologies and contributing to open-source projects.  
 
-- 🔭 I’m currently working on **Advanced AI Research**
-- 🌱 I’m currently learning **Deep Learning & Neural Networks**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, ML, and Data Science**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 🔭 Currently working on **Advanced AI & Cybersecurity Projects**  
+- 🌱 Learning **Deep Learning, Neural Networks & Threat Detection**  
+- 👯 Looking to collaborate on **Open Source AI & Security Projects**  
+- 💬 Ask me about **Python, AI/ML, Cybersecurity & Data Science**  
+- 📫 Reach me at: [umerhubhai0311@gmail.com](mailto:umerhubhai0311@gmail.com)  
 
 ---
 
@@ -39,7 +39,7 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,firebase,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,firebase,html,css,js,ts" />
   </a>
 </p>
 
@@ -52,9 +52,13 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Smart Log Anomaly Detector** | Detects system anomalies using ML. | Python, Scikit-Learn | [View](https://github.com/MUmerNaveed01/Smart-Log-Anomaly-Detector) |
-| **AI Financial Advisor** | Personalized financial recommendations. | Python, AI, Data Science | [View](https://github.com/MUmerNaveed01/Personalized-AI-Financial-Advisor) |
+| **Personalized AI Financial Advisor** | Provides personalized financial recommendations. | Python, AI, Data Science | [View](https://github.com/MUmerNaveed01/Personalized-AI-Financial-Advisor) |
 | **Spam Email Classifier** | Classifies emails using NLP techniques. | Python, NLP, ML | [View](https://github.com/MUmerNaveed01/Spam-Email-Classifier) |
-| **AI Sentiment Dashboard** | Visualizes sentiment from data sources. | Python, AI, Visualization | [View](https://github.com/MUmerNaveed01/-MUmerNaveed01-AI-Sentiment-Dashboard) |
+| **AI Sentiment Dashboard** | Visualizes sentiment from social media data. | Python, NLP, Visualization | [View](https://github.com/MUmerNaveed01/-MUmerNaveed01-AI-Sentiment-Dashboard) |
+| **AI Phishing Link Detector** | Detects phishing URLs for cybersecurity protection. | Python, ML, Cybersecurity | [View](https://github.com/MUmerNaveed01/AI-Phishing-Link-Detector) |
+| **Real-time AI Video Summarizer** | Summarizes video content in real-time. | Python, OpenCV, NLP | [View](https://github.com/MUmerNaveed01/Real-time-AI-Video-Summarizer) |
+| **Multi-Agent AI Researcher** | Multi-agent system for autonomous decision-making. | Python, Reinforcement Learning | [View](https://github.com/MUmerNaveed01/-Multi-Agent-AI-Researcher) |
+| **House Price Predictor** | Predicts real estate prices using regression models. | Python, ML | [View](https://github.com/MUmerNaveed01/House-Price-Predictor) |
 
 </div>
 
@@ -79,9 +83,9 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/um-er-78a07b2b1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:umerhubhai0311@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
