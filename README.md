@@ -33,7 +33,7 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,vscode,linux,docker,aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,vscode,linux,docker,aws" />
   </a>
 </p>
 
