@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%26%20Cybersecurity%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=35&theme=dark" />
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Umer%20Naveed&fontSize=80&animation=fadeIn&fontAlignY=35&theme=radical" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=490&lines=AI-Driven+Cybersecurity;Threat+Intelligence;Security+Automation;Ethical+Hacking" alt="Typing SVG" />
 </p>
@@ -47,9 +45,9 @@ I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding d
 | :--- | :--- |
 | **Languages** | Python, SQL, Bash |
 | **AI/ML** | Scikit-Learn, TensorFlow, PyTorch, NLP, Anomaly Detection |
-| **Cybersecurity** | Kali Linux, Wireshark, Metasploit, Nmap, SIEM, SOC, Threat Intelligence, Penetration Testing, Ethical Hacking |
-| **Cloud & DevOps** | Docker, AWS, Google Cloud, Azure |
-| **Tools & Platforms** | Git, GitHub, VS Code, Splunk, ELK Stack |
+| **Cybersecurity** | Kali Linux, Wireshark, Metasploit, Nmap, Penetration Testing, Ethical Hacking |
+| **Cloud & DevOps** | Docker, AWS
+| **Tools & Platforms** | Git, GitHub, VS Code|
 
 ---
 
@@ -71,21 +69,21 @@ I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding d
 </div>
 
 ---
+### 📊 GitHub Statistics
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUmerNaveed01&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUmerNaveed01&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmerNaveed01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmerNaveed01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUmerNaveed01&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUmerNaveed01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
