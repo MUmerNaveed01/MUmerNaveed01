@@ -25,7 +25,7 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 - 🌱 I’m currently learning **Deep Learning & Neural Networks**
 - 👯 I’m looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, ML, and Data Science**
-- 📫 How to reach me: (umerhubhai0311@gmail.com)
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
@@ -33,13 +33,13 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,vscode,linux,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,vscode,linux,docker,aws,gcp,azure" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,,postgresql,,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,firebase,html,css,js,ts" />
   </a>
 </p>
 
