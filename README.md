@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Umer%20Naveed&fontSize=80&animation=fadeIn&fontAlignY=35&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%26%20CyberSec%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=35&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Cybersecurity+Enthusiast;Python+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=490&lines=AI-Driven+Cybersecurity;Threat+Intelligence;Security+Automation;Ethical+Hacking" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ### 🚀 About Me
 
-I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated to building intelligent systems and secure solutions. With expertise in **Python, Machine Learning, and Data Analytics**, I focus on creating scalable, real-world applications. I enjoy exploring emerging technologies and contributing to open-source projects.  
+I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding digital assets through intelligent solutions. My expertise lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, where I leverage machine learning to develop advanced threat detection systems, automate security operations, and analyze complex security data. I am committed to building robust defenses against evolving cyber threats and securing AI systems themselves.
 
-- 🔭 Currently working on **Advanced AI & Cybersecurity Projects**  
-- 🌱 Learning **Deep Learning, Neural Networks & Threat Detection**  
-- 👯 Looking to collaborate on **Open Source AI & Security Projects**  
-- 💬 Ask me about **Python, AI/ML, Cybersecurity & Data Science**  
-- 📫 Reach me at: [umerhubhai0311@gmail.com](mailto:umerhubhai0311@gmail.com)  
+- 🔭 I’m currently working on **AI-powered Threat Detection Systems**
+- 🌱 I’m currently learning **Advanced Penetration Testing & AI Security**
+- 👯 I’m looking to collaborate on **Open Source Cybersecurity & AI Projects**
+- 💬 Ask me about **Python, ML, and Cybersecurity**
+- 📫 How to reach me: [umerhubhai0311@gmail.com](mailto:umerhubhai0311@gmail.com)
 
 ---
 
@@ -33,15 +33,23 @@ I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,vscode,linux,docker,aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,git,github,vscode,linux,docker,aws,gcp,azure" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,firebase,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=kali,wireshark,metasploit,nmap,burpsuite,splunk,elk,snort,suricata" />
   </a>
 </p>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, Bash |
+| **AI/ML** | Scikit-Learn, TensorFlow, PyTorch, NLP, Anomaly Detection |
+| **Cybersecurity** | Kali Linux, Wireshark, Metasploit, Nmap, SIEM, SOC, Threat Intelligence, Penetration Testing, Ethical Hacking |
+| **Cloud & DevOps** | Docker, AWS, Google Cloud, Azure |
+| **Tools & Platforms** | Git, GitHub, VS Code, Splunk, ELK Stack |
 
 ---
 
@@ -51,10 +59,10 @@ I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated 
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Smart Log Anomaly Detector** | Detects system anomalies using ML. | Python, Scikit-Learn | [View](https://github.com/MUmerNaveed01/Smart-Log-Anomaly-Detector) |
-| **Personalized AI Financial Advisor** | Provides personalized financial recommendations. | Python, AI, Data Science | [View](https://github.com/MUmerNaveed01/Personalized-AI-Financial-Advisor) |
-| **Spam Email Classifier** | Classifies emails using NLP techniques. | Python, NLP, ML | [View](https://github.com/MUmerNaveed01/Spam-Email-Classifier) |
-| **AI Sentiment Dashboard** | Visualizes sentiment from social media data. | Python, NLP, Visualization | [View](https://github.com/MUmerNaveed01/-MUmerNaveed01-AI-Sentiment-Dashboard) |
+| **Smart Log Anomaly Detector** | AI-driven system for real-time detection of security anomalies in system logs. | Python, Scikit-Learn, Data Analysis | [View](https://github.com/MUmerNaveed01/Smart-Log-Anomaly-Detector) |
+| **Spam Email Classifier** | Machine learning model to identify and filter malicious or unwanted spam emails. | Python, NLP, ML, Cybersecurity | [View](https://github.com/MUmerNaveed01/Spam-Email-Classifier) |
+| **AI Financial Advisor** | (Reframed for Security) Explores AI for secure financial data analysis and fraud detection. | Python, AI, Data Science, Security | [View](https://github.com/MUmerNaveed01/Personalized-AI-Financial-Advisor) |
+| **AI Sentiment Dashboard** | (Reframed for Security) Visualizes sentiment from security forums/feeds for threat intelligence. | Python, AI, Visualization, Threat Intel | [View](https://github.com/MUmerNaveed01/-MUmerNaveed01-AI-Sentiment-Dashboard) |
 | **AI Phishing Link Detector** | Detects phishing URLs for cybersecurity protection. | Python, ML, Cybersecurity | [View](https://github.com/MUmerNaveed01/AI-Phishing-Link-Detector) |
 | **Real-time AI Video Summarizer** | Summarizes video content in real-time. | Python, OpenCV, NLP | [View](https://github.com/MUmerNaveed01/Real-time-AI-Video-Summarizer) |
 | **Multi-Agent AI Researcher** | Multi-agent system for autonomous decision-making. | Python, Reinforcement Learning | [View](https://github.com/MUmerNaveed01/-Multi-Agent-AI-Researcher) |
@@ -67,15 +75,15 @@ I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUmerNaveed01&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUmerNaveed01&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmerNaveed01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmerNaveed01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUmerNaveed01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUmerNaveed01&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,12 +91,12 @@ I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/um-er-78a07b2b1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />https://www.linkedin.com/in/mumernaveed/<a>
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />umerhubhai0311@gmail.com</a>
+  <a href="https://www.linkedin.com/in/mumernaveed/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:umerhubhai0311@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
