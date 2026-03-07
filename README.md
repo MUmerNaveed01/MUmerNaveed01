@@ -83,9 +83,8 @@ I am a passionate **AI/ML Engineer** and **Cybersecurity Enthusiast** dedicated 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/um-er-78a07b2b1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><https://www.linkedin.com/in/mumernaveed/a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:umerhubhai0311@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/um-er-78a07b2b1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />https://www.linkedin.com/in/mumernaveed/<a>
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />umerhubhai0311@gmail.com</a>
 </p>
 
 ---
