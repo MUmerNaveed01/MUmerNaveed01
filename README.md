@@ -39,7 +39,7 @@ I am a passionate **AI/ML Engineer** and **Data Scientist** dedicated to buildin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,firebase,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,,postgresql,,html,css,js,ts" />
   </a>
 </p>
 
