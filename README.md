@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Cybersecurity+Specialist;Threat+Detection+%26+Automation;Cloud+Security;Ethical+Hacking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Threat+Detection+%26+Automation;Cloud+Security;Ethical+Hacking" />
 </p>
 
 <p align="center">
@@ -92,11 +92,9 @@ I am a passionate **Cybersecurity & DevSecOps Enthusiast** focused on building *
 
 <p align="center">
   <a href="mailto:umerhubhai0311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-umerhubhai0311%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mumernaveed/">
+  <a href="https://www.linkedin.com/in/mumernaveed">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Umer%20Naveed-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
