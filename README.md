@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Umer%20Naveed&fontSize=80&animation=fadeIn&fontAlignY=35&theme=radical" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=490&lines=AI-Driven+Cybersecurity;Threat+Intelligence;Security+Automation;Ethical+Hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=490&lines=DevOps +Cybersecurity;Threat+Intelligence;Security+Automation;Ethical+Hacking" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,15 +16,13 @@
 ---
 
 ### 🚀 About Me
-
-I am a dedicated **AI & Cybersecurity Engineer** passionate about safeguarding digital assets through intelligent solutions. My expertise lies at the intersection of **Artificial Intelligence** and **Cybersecurity**, where I leverage machine learning to develop advanced threat detection systems, automate security operations, and analyze complex security data. I am committed to building robust defenses against evolving cyber threats and securing AI systems themselves.
-
-- 🔭 I’m currently working on **AI-powered Threat Detection Systems**
-- 🌱 I’m currently learning **Advanced Penetration Testing & AI Security**
-- 👯 I’m looking to collaborate on **Open Source Cybersecurity & AI Projects**
-- 💬 Ask me about **Python, ML, and Cybersecurity**
-- 📫 How to reach me: [umerhubhai0311@gmail.com](mailto:umerhubhai0311@gmail.com)
-
+I am a dedicated Cybersecurity & DevOps Enthusiast passionate about securing modern digital infrastructures through intelligent and automated solutions. My expertise lies at the intersection of Artificial Intelligence, Cybersecurity, and DevOps, where I apply machine learning to enhance threat detection, automate security workflows, and strengthen system resilience.
+I am deeply committed to building secure, scalable, and reliable systems while proactively defending against evolving cyber threats and ensuring the integrity of AI-driven environments.
+🔭 I’m currently working on AI-powered Threat Detection & Security Automation Systems
+🌱 I’m currently learning Advanced Penetration Testing, Cloud Security & DevSecOps Practices
+👯 I’m looking to collaborate on Open Source Cybersecurity, DevOps & DevSecOps Projects
+💬 Ask me about Python, DevOps Pipelines, Security Automation & Threat Analysis
+📫 How to reach me: umerhubhai0311@gmail.com
 ---
 
 ### 🛠️ Skills & Tools
